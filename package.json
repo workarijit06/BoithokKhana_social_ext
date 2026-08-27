@@ -1,0 +1,13 @@
+{
+  "name": "boithok-khana",
+  "version": "1.0.0",
+  "description": "Boithok Khana Customer Data Entry & Admin Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
